@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Elijah Ndaruga - [Github](https://github.com/elijahmacharia) 
-Mamudou Bojang - [Github](https://github.com/)
+Mamudou Bojang - [Github](https://github.com/mamudou1)
 ## License
 Public Domain. No copy write protection. 
